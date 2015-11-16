@@ -1,0 +1,3 @@
+def greeting(name)
+  return "#{name} #{(6..15).to_a.sample}"
+end
